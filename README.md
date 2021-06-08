@@ -17,3 +17,4 @@
 - Mini Projects
   - Guess the number
   - Login System
+  - Basic Clock
